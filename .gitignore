@@ -12,5 +12,8 @@ demo/.mvn/wrapper/maven-wrapper.jar
 *.iml
 .vscode/
 
+# Claude
+.claude/
+
 # OS
 .DS_Store
